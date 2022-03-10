@@ -1,0 +1,24 @@
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\bin\Debug\Gestiune Lucrari Service.exe.config
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\bin\Debug\Gestiune Lucrari Service.exe
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\bin\Debug\Gestiune Lucrari Service.pdb
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune Lucrari Service.csproj.AssemblyReference.cache
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Angajati.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Main.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Properties.Resources.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune Lucrari Service.csproj.GenerateResource.cache
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune Lucrari Service.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune Lucrari Service.exe
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune Lucrari Service.pdb
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Clienti.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Lucrari.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Masini.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Piese.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Login.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Complex1.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Complex2.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Complex3.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Complex4.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Simple1.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Simple2.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Simple3.resources
+D:\Facultate\Anul III\BD\Proiect BD\Gestiune Lucrari Service\Gestiune Lucrari Service\Gestiune Lucrari Service\obj\Debug\Gestiune_Lucrari_Service.Simple4.resources
